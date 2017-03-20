@@ -29,8 +29,8 @@ It is not much before, when only in movies and video games one can think about d
 ### Venues
 | Location | Date |
 | ---- | ---- |
-| [Jamia Milia Islamia]() | 18-02-2017 |
-| [JRE Group of Institutions]() | 10-02-2017 |
+| [Jamia Milia Islamia](/JMI) | 18-02-2017 |
+| [JRE Group of Institutions](/JRE) | 10-02-2017 |
 
 ### SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
