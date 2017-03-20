@@ -6,4 +6,4 @@ transformation, providing innovative nextgeneration technology solutions and ser
 industry expertise and an extensive partner community.
 
 ### What's in this repo?
-Everything about the events organized by SDIoT.
+Everything about the events organized by SDIoT. You can look up our [workshops](/Workshops) and [meetups](/Meetups) here.
