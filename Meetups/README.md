@@ -1,4 +1,4 @@
 # Meetups
-|Location|Date|
+|Date|Venue|
 |-----|-----|
-|[The Founders Cafe]()| 02-04-2017|
+|02-04-2017| [The Founders Cafe](SDIoT_Events/Meetups/02-04-2017)|
