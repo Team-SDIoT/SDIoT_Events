@@ -2,7 +2,7 @@
  <img src="Image/Gr-Noida-Meetup.png" height="150" width="150" >
  
  ## Venue
- <img src="Image/maxresdefault.jpg" height="150" width="150" >
+ <img src="Image/maxresdefault.jpg" height="150" width="500" >
  Galgotias College of Engineering & Technology
 
  ## Time
