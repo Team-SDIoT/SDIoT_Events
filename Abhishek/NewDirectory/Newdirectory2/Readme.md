@@ -1,5 +1,5 @@
 # Table
 column 1 | column 2
 --- | --- 
-A | C
-B | D
+A | [Abhishek](/Abhishek)
+B | [NewDirectory](/Abhishek/NewDirectory)
