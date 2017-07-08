@@ -12,7 +12,10 @@
  Sanjeev Pippal
  
  Vijay Rai
+ 
  ## DRONE Flight Simulator
+ <img src="Image/simulator.jpg" height="200" width="300" >
+ 
  ## DRONE Air show
  ## Show&Tell
  ## 3 Minute Thought
