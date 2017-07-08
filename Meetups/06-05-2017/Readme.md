@@ -2,7 +2,9 @@
  <img src="Image/Gr-Noida-Meetup.png" height="150" width="150" >
  
  ## Venue
+ <img src="Image/maxresdefault.jpg" height="150" width="150" >
  Galgotias College of Engineering & Technology
+
  ## Time
  11:00 AM - 03:00 PM
  ## Keynote Speakers
