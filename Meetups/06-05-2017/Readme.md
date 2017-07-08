@@ -1,5 +1,5 @@
  # Meetup - 02
- ![](image/Gr-Noida-Meetup.png)
+ ![](Image/Gr-Noida-Meetup.png)
  
  
  ## Venue
