@@ -1,5 +1,5 @@
  # Meetup - 02
- <img src="![gr-noida-meetup](https://user-images.githubusercontent.com/26490464/27987600-f98e01ec-63c4-11e7-9503-8015537fe6af.png)" height="100" width="100">
+ <img src="![gr-noida-meetup](https://user-images.githubusercontent.com/26490464/27987600-f98e01ec-63c4-11e7-9503-8015537fe6af.png)" height="100" width="100" >
  ## Venue
  Galgotias College of Engineering & Technology
  ## Time
