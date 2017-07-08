@@ -1,7 +1,8 @@
  # Meetup - 02 
  ## Venue
  <img src="Image/maxresdefault.jpg" height="250" width="500" >
-  **Galgotias College of Engineering & Technology**
+ 
+ **Galgotias College of Engineering & Technology**
 
  ## Time
  11:00 AM - 03:00 PM
