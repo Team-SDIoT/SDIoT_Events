@@ -1,4 +1,5 @@
- # Meetup - 02 <img src="Image/Gr-Noida-Meetup.png" height="100" width="100" >
+ # Meetup - 02 
+ <img src="Image/Gr-Noida-Meetup.png" height="150" width="150" >
  
  ## Venue
  Galgotias College of Engineering & Technology
