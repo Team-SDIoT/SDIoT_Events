@@ -1,4 +1,5 @@
 # SDIoT 
+Smart Thinking For Smart Generation
 ## About us
 SDIoT is the most exclusive, invitation-only, network of high-caliber professionals who want to make the mark
 in the field of Smart Devices and Internet of Things. We lead students on their technological
