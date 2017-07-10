@@ -25,5 +25,5 @@ Speaker: Rajdeep Deb
 <img src="Image/speaker session/IMG_1198.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1170.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1166.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1252.jpg" height="250" width="400" >
 
 ## Refreshment Session
-
+<img src="Image/Refreshment session/IMG_1205.jpg" height="250" width="400" ><img src="Image/Refreshment session/IMG_1209.jpg" height="250" width="400" ><img src="Image/Refreshment session/IMG_1213.jpg" height="250" width="400" ><img src="Image/Refreshment session/IMG_1216.jpg" height="250" width="400" >
 
