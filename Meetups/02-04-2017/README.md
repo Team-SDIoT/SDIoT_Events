@@ -21,5 +21,9 @@ Speaker: Rajdeep Deb
 ## Simulator Session
 <img src="Image/Simulator session/IMG_1232.jpg" height="250" width="400" ><img src="Image/Simulator session/IMG_1134.jpg" height="250" width="400" ><img src="Image/Simulator session/IMG_1151.jpg" height="250" width="400" ><img src="Image/Simulator session/IMG_1394.jpg" height="250" width="400" >
 
+## Speaker Session
+<img src="Image/speaker session/IMG_1166.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1170.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1201.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1252.jpg" height="250" width="400" >
+
+
 
 
