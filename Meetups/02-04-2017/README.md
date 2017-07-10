@@ -4,7 +4,7 @@
 ## Venue
 <img src="Image/about-pic1-min.jpeg" height="250" width="500" >
 
-#**The Founders Cafe**
+###The Founder's Cafe
 ## Time
 2:00 pm - 7:00 pm
 ## Keynotes
