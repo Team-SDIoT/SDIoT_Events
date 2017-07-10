@@ -19,9 +19,9 @@ Speaker: Vijay Rai
 ### The wearable future
 Speaker: Rajdeep Deb
 ## Simulator Session
-<img src="Image/about-pic1-min.jpeg" height="250" width="500" >
-<img src="Image/about-pic1-min.jpeg" height="250" width="500" >
-<img src="Image/about-pic1-min.jpeg" height="250" width="500" >
-<img src="Image/about-pic1-min.jpeg" height="250" width="500" >
+<img src="Image/Simulator session/IMG_1134.jpg" height="250" width="500" >
+<img src="Image/Simulator session/IMG_1394.jpg" height="250" width="500" >
+<img src="Image/Simulator session/IMG_1232.jpg" height="250" width="500" >
+<img src="Image/Simulator session/IMG_1151.jpg" height="250" width="500" >
 
 
