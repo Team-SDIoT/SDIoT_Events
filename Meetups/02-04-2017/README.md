@@ -4,7 +4,7 @@
 ## Venue
 <img src="Image/about-pic1-min.jpeg" height="250" width="500" >
 
-###The Founder's Cafe
+### The Founders Cafe
 ## Time
 2:00 pm - 7:00 pm
 ## Keynotes
@@ -18,5 +18,6 @@ Speaker: Anirudh Acharya
 Speaker: Vijay Rai
 ### The wearable future
 Speaker: Rajdeep Deb
+## Simulator Session
 
 
