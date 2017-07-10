@@ -1,7 +1,7 @@
 # Meetup - 01
 <img src="Image/Meetup-1.jpg" height="150" width="800" >
-
 ## Venue
+<img src="Image/about-pic1-min.jpg" height="250" width="400" >
 The Founders Cafe
 ## Time
 2:00 pm - 7:00 pm
