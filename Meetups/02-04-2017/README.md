@@ -29,3 +29,6 @@ Speaker: Rajdeep Deb
 
 ## Show and Tell
 <img src="Image/Show And Tell/IMG_1476.jpg" height="250" width="400" ><img src="Image/Show And Tell/IMG_1488.jpg" height="250" width="400" >
+
+## Project Presentation
+<img src="Image/Project Presentation/IMG_1217.jpg" height="250" width="400" ><img src="Image/Project Presentation/IMG_1220.jpg" height="250" width="400" >
