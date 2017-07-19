@@ -1,4 +1,5 @@
-<img src="SDIOT logo.png" height="50" width="300" >
+<img src="SDIOT logo.png" height="100" width="300" >
+
 ## About us
 SDIoT is the most exclusive, invitation-only, network of high-caliber professionals who want to make the mark
 in the field of Smart Devices and Internet of Things. We lead students on their technological
