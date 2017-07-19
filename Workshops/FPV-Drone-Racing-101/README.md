@@ -27,10 +27,10 @@ It is not much before, when only in movies and video games one can think about d
 + Explore the hobby side of FPV drones.
 + With us dig into the ever-expanding (and lucrative) commercial side to FPV.
 ### Venues
-| Location | Date |
+| Date | Location | 
 | ---- | ---- |
-| [Jamia Milia Islamia](/Workshops/FPV-Drone-Racing-101/JMI/) | 18-02-2017 |
-| [JRE Group of Institutions](/Workshops/FPV-Drone-Racing-101/JRE/) | 10-02-2017 |
+| 18-02-2017 | [Jamia Milia Islamia](/Workshops/FPV-Drone-Racing-101/JMI/) | 
+| 10-02-2017 | [JRE Group of Institutions](/Workshops/FPV-Drone-Racing-101/JRE/) | 
 
 ### SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
