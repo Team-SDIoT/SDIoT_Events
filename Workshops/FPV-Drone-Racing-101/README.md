@@ -29,8 +29,9 @@ It is not much before, when only in movies and video games one can think about d
 ### Venues
 | Date | Location | 
 | ---- | ---- |
-| 18-02-2017 | [Jamia Milia Islamia](/Workshops/FPV-Drone-Racing-101/JMI/) | 
 | 10-02-2017 | [JRE Group of Institutions](/Workshops/FPV-Drone-Racing-101/JRE/) | 
+| 18-02-2017 | [Jamia Milia Islamia](/Workshops/FPV-Drone-Racing-101/JMI/) | 
+
 
 ### SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
