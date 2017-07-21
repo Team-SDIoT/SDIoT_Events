@@ -8,6 +8,8 @@
 <img src="Image/Technical session/gkl;;;;.jpg" height="300" width="440" ><img src="Image/Technical session/DSC_0476.jpg" height="300" width="440" >
 
 ## Certificate Distribution
+<img src="Image/Certificate Distribution/DSC_0537.jpg" height="300" width="440" ><img src="Image/Certificate Distribution/DSC_0552.jpg" height="300" width="440" >
+
 ## Drone Airshow 
 ## Our Audience Review
 <img src="Image/Review/RCFExp.png" height="350" width="400" ><img src="Image/Review/LaterEvents.png" height="350" width="400" ><img src="Image/Review/ESExp.png" height="400" width="400" ><img src="Image/Review/Sim.png" height="400" width="400" ><img src="Image/Review/FW.png" height="400" width="400" >
