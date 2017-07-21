@@ -5,6 +5,8 @@
 <img src="Image/Inauguration/DSC_0395.jpg" height="300" width="440" ><img src="Image/Inauguration/67ggg.jpg" height="300" width="440" >
 
 ## Technical Session
+<img src="Image/Technical session/gkl;;;;.jpg" height="300" width="440" ><img src="Image/Technical session/DSC_0476.jpg" height="300" width="440" >
+
 ## Certificate Distribution
 ## Drone Airshow 
 ## Our Audience Review
