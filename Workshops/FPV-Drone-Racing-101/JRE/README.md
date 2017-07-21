@@ -2,7 +2,7 @@
 <img src="JRE-Group-of-Institutions-greater-noida.jpg" height="300" width="900" >
 
 ## Inauguration
-<img src="Image/Inauguration/DSC_0395.jpg" height="350" width="400" ><img src="Image/Inauguration/67ggg.jpg" height="350" width="400" >
+<img src="Image/Inauguration/DSC_0395.jpg" height="300" width="450" ><img src="Image/Inauguration/67ggg.jpg" height="300" width="450" >
 
 ## Technical Session
 ## Certificate Distribution
