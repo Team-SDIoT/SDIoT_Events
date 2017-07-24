@@ -37,6 +37,6 @@ It is not much before, when only in movies and video games one can think about d
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
 " target="_blank"><img src="http://img.youtube.com/vi/xx-MSRvAeJE/0.jpg" 
 alt="SkySelfie at JRE" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-thf0-IwVedc
-" target="_blank"><img src="http://img.youtube.com/vi/xx-thf0-IwVedc.jpg" 
-alt="SkySelfie at JRE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=thf0-IwVedc
+" target="_blank"><img src="http://img.youtube.com/vi/thf0-IwVedc/0.jpg" 
+alt="skyselfie at jmi" width="240" height="180" border="10" /></a>
