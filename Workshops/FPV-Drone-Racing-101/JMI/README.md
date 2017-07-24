@@ -12,3 +12,6 @@
 
 # Photo Session
 <img src="Photo Session/IMG_1003.jpg" height="250" width="440" ><img src="Photo Session/IMG_1015.jpg" height="250" width="440" ><img src="Photo Session/IMG_1028.jpg" height="250" width="440" ><img src="Photo Session/IMG_1054.jpg" height="250" width="440" >
+
+# Audience Review
+<img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" ><img src="Audience Review/Jamia_1.png" height="200" width="330" >
