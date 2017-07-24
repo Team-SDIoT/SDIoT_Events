@@ -25,9 +25,23 @@ Linux, which is a free operating system, has been adapted by more computer hardw
      + BEAGLEBONE BLACK
   + IoT demo with embedded Linux
   
-  ## Learning outcomes
+## Learning outcomes
   This workshop will teach you:
   + Background and training you need to start working with Linux.
   + Learn the methods and internal infrastructure of the Linux kernel.
   + Step-by-step framework for developing an embedded Linux product.
+  
+## Pre-requirements
+  + Basic computer concept.
+  + Needed a laptop with Ubuntu installed as virtual machine, dual boot or full OS, or Linux lab.
+  + Basic Programming Knowledge.
+  
+## Our Pedagogy
+Our proposed workshop is based on experiential learning methodology, which involves a series of highly interactive and intense individual and group based activities. Our relationship with students continues even after the workshop where we offer online and offline technical support to convert their ideas into reality.
+
+## Venues
+| Date | Location |
+| --- | --- |
+|              |                  | 
+
   
