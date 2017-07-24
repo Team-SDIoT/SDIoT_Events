@@ -9,3 +9,6 @@
 
 # Drone Airshow
 <img src="Drone Airshow/IMG_0993.jpg" height="250" width="440" ><img src="Drone Airshow/IMG_1022.jpg" height="250" width="440" >
+
+# Photo Session
+<img src="Photo Session/IMG_1003.jpg" height="250" width="440" ><img src="Photo Session/IMG_1015.jpg" height="250" width="440" ><img src="Photo Session/IMG_1028.jpg" height="250" width="440" ><img src="Photo Session/IMG_1054.jpg" height="250" width="440" >
