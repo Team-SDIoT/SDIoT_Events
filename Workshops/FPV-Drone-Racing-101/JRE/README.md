@@ -1,7 +1,7 @@
 # JRE Group Of Institution
 <img src="JRE-Group-of-Institutions-greater-noida.jpg" height="250" width="900" >
 
-## Audience Review
+# Audience Review
 
 <img src="Image/Review/JRE_1.png" height="250" width="430" ><img src="Image/Review/JRE_2.png" height="250" width="430" ><img src="Image/Review/JRE_3.png" height="250" width="430" ><img src="Image/Review/JRE_4.png" height="250" width="430" ><img src="Image/Review/JRE_5.png" height="250" width="430" ><img src="Image/Review/JRE_6.png" height="250" width="430" ><img src="Image/Review/JRE_7.png" height="250" width="430" ><img src="Image/Review/JRE_8.png" height="250" width="430" ><img src="Image/Review/JRE_9.png" height="250" width="430" ><img src="Image/Review/JRE_10.png" height="250" width="430" >
 
