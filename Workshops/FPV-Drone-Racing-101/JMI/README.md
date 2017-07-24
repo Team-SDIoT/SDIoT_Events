@@ -1,2 +1,2 @@
 # Jamia Millia Islamia
-<img src="" height="" width="" >
+<img src="JMI-BDS-Results.jpg" height="300" width="900" >
