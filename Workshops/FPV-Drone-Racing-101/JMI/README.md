@@ -6,3 +6,6 @@
 
 # Certificate Distribution
 <img src="Certificate Distribution/IMG_1043.jpg" height="250" width="440" ><img src="Certificate Distribution/IMG_1045.jpg" height="250" width="440" >
+
+# Drone Airshow
+<img src="Drone Airshow/IMG_0993.jpg" height="250" width="440" ><img src="Drone Airshow/IMG_1022.jpg" height="250" width="440" >
