@@ -1,4 +1,13 @@
  # Meetup - 02 
+ ## Main Topics 
+ + IoT 
+ + Wearable electronics 
+ + Artificial Intelligence 
+ + Drones 
+ + Maker movement 
+ + Hardware Hacking 
+ + Cyber  Vulnerabilities and Security.
+
  ## Venue
  <a href="http://www.galgotiacollege.edu/gcet.asp"><img src="Image/maxresdefault.jpg" height="250" width="500" >
  
