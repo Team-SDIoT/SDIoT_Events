@@ -1,6 +1,6 @@
  # Meetup - 02 
  ## Venue
- <img src="Image/maxresdefault.jpg" height="250" width="500" >
+ <a href="http://www.galgotiacollege.edu/gcet.asp"><img src="Image/maxresdefault.jpg" height="250" width="500" >
  
  **Galgotias College of Engineering & Technology**
 
