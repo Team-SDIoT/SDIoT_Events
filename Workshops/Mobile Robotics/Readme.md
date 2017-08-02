@@ -21,7 +21,7 @@ Mobile Robotics is a fast evolving, solutions orientated, industry within which 
 + Helpful tips, tricks, and considerations to consider while operating your robots.
 ## Attractions
 + Hands on Racing event for all participants.
-+ You can see what our drones are seeing while flying.
++ You can see what our Robots are seeing while racing.
 + Live Race, experience racing high speed Robots, freestyling and maneuvers.
 + Explore the hobby side of Robotics. 
 + With us dig into the ever-expanding (and lucrative) commercial side to Robotics.
