@@ -35,3 +35,15 @@ The workshop is planned for one day with the following sessions:
   + Data Acquisition and Cloud Server Integration
   + Project Presentation
   + Certificate Distribution
+## Learning Outcomes
+This workshop will teach you:
++ An understanding of how microprocessors, sensors, and radio hardware are integrated in an embedded
+hardware platform.
++ Learn how to make a low footprint battery powered IoT node & communicate between hardware & cloud.
++ Understand the fundamentals of configuring, launching, integrating & maintaining your own IoT solution.
++ Gain knowledge on how interoperability is the key to dealing with the fragmentation of the IoT market.
+## Pre-requisites
++ Basic Soldering.
++ C programming language (basic level)
++ Bread boarding (Good to know but not necessary)
+
