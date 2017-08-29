@@ -6,5 +6,5 @@ technologies, networking technologies, data/storage/analytics and security aspec
 taking this workshop will be introduced to the fundamentals of the IoT paradigm, including hardware
 platforms, communication protocols, and the types of services that can be enabled over this ecosystem.
 ## Workshop Details
-Workshop Name      : Getting Started with Internet of Things (IoT)
-Workshop Duration  : Two Day
+Workshop Name      : **Getting Started with Internet of Things (IoT)**
+Workshop Duration  : **Two Day**
