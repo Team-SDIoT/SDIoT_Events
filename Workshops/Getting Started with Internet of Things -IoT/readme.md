@@ -7,4 +7,12 @@ taking this workshop will be introduced to the fundamentals of the IoT paradigm,
 platforms, communication protocols, and the types of services that can be enabled over this ecosystem.
 ## Workshop Details
 Workshop Name      : **Getting Started with Internet of Things (IoT)**
+
 Workshop Duration  : **Two Day**
+## Course Content
+The workshop is planned for one day with the following sessions:
++ Day-1 Session-1 (Theory)
+  + IoT: What & Why
+  + Interoperability of IoT systems
+  + IoT Analytics & Applications
++ Day-1 Session-2 (Hardware)
