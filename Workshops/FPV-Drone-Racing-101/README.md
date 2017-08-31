@@ -3,6 +3,7 @@ Flying an FPV (first person view) drone is an out of the world experience.
 It is not much before, when only in movies and video games one can think about drone racing, now a bird’s-eye view or race through obstacles at breakneck speeds is a reality. Through this workshop we are bringing this to your fingertips, now you too can wear your flying goggles and enjoy the breathtaking maneuver of drone right in front of your eyes.
 ## Workshop Details
 Workshop Name : **FPV Drone Racing: 101**
+
 Workshop Duration : **One Day**
 ## Course Content
 + Session 1
