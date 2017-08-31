@@ -37,10 +37,10 @@ Our proposed workshop is based on experiential learning methodology, which invol
 ## SDIoT P4U Lab
 P4U lab is an initiative of SDIoT to inspire Tech-enthusiasts and Entrepreneurs to turn their ideas into new prototypes and products by giving them access to a range of advanced digital manufacturing technology. It began as a common working place of SDIoT members, and became into a collaborative platform of tech-enthusiast from Delhi NCR. You can find more information about P4U Lab on the SDIoT Website.
 ## Venues
-| Date | Location | 
-| ---- | ---- |
-| 10-02-2017 | [JRE Group of Institutions](/Workshops/FPV-Drone-Racing-101/JRE/) | 
-| 18-02-2017 | [Jamia Milia Islamia](/Workshops/FPV-Drone-Racing-101/JMI/) | 
+| S.No. | Date | Location | 
+| ---- | ---- | --- |
+| 1 | 10-02-2017 | [JRE Group of Institutions](/Workshops/FPV-Drone-Racing-101/JRE/) | 
+| 2 | 18-02-2017 | [Jamia Milia Islamia](/Workshops/FPV-Drone-Racing-101/JMI/) | 
 
 ## SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
