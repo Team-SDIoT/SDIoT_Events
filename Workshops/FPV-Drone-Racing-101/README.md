@@ -6,18 +6,18 @@ Workshop Name : **FPV Drone Racing: 101**
 
 Workshop Duration : **One Day**
 ## Course Content
-+ Session 1
++ **Session 1**
   + Physics of flying
   + Drone principles and aerodynamics
   + Best practice to build and fly
-+ Session 2
++ **Session 2**
   + Get familiar with drone parts
   + Their use and functioning
-+ Session 3
++ **Session 3**
   + Simulator session: Learn how to fly multirotors.
-+ Session 4
++ **Session 4**
   + Be a part of Drone Air Show
-  + Experience your first #SkySelfie
+  + Experience your first **_#SkySelfie_**
 ## Learning Outcomes
 + The basic requirement in building and flying a drone
 + About aerodynamics, electronics and software associated with a drone.
@@ -29,6 +29,7 @@ Our proposed workshop is based on experiential learning methodology, which invol
 ## Benefits/Takeaway/Motivation
 + Each Participant will get a participation certificate.
 + Hands on simulator session for all participants.
++ Each participant will get E-book and future guidance for their projects.
 + Live Airshow, experience racing drones flying at high speed, freestyling and maneuvers.
 + Explore the hobby side of FPV drones.
 + With us dig into the ever-expanding (and lucrative) commercial side to FPV.
