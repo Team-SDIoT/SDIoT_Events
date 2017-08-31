@@ -46,4 +46,7 @@ hardware platform.
 + Basic Soldering.
 + C programming language (basic level)
 + Bread boarding (Good to know but not necessary)
+## Our Pedagogy
+Our proposed workshop is based on experiential learning methodology, which involves a series of highly interactive and intense individual and group based activities. Our relationship with students continues even after the workshop where we offer online and offline technical support to convert their ideas into reality.
+## Benefits/Takeaway/Motivation:
 
