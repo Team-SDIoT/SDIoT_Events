@@ -23,8 +23,7 @@ Speaker: Vijay Rai
 + **Akshay Kumar**
 
 ## Simulator Session
-<img src="Image/Simulator session/DSC_0498.jpg" height="250" width="400" ><img src="Image/Simulator session/DSC_0501.jpg" height="250" width="400" ><img src="Image/Simulator session/DSC_0507.jpg" height="250" width="400" ><img src="Image/Simulator session/DSC_0515.jpg" height="250" width="400" >
-
+<img src="Image/Simulator session/DSC_0515.jpg" height="250" width="400" ><img src="Image/Simulator session/DSC_0501.jpg" height="250" width="400" ><img src="Image/Simulator session/DSC_0498.jpg" height="250" width="400" ><img src="Image/Simulator session/DSC_0507.jpg" height="250" width="400" >
 ## Speaker Session
 <img src="Image/speaker session/DSC_0542.jpg" height="250" width="400" ><img src="Image/speaker session/DSC_0547.jpg" height="250" width="400" ><img src="Image/speaker session/DSC_0574.jpg" height="250" width="400" ><img src="Image/speaker session/DSC_0586.jpg" height="250" width="400" >
 
@@ -41,4 +40,4 @@ Speaker: Vijay Rai
 <img src="Image/Drone Airshow/DSC_0660.jpg" height="250" width="400" ><img src="Image/Drone Airshow/DSC_0673.jpg" height="250" width="400" ><img src="Image/Drone Airshow/DSC_0674.jpg" height="250" width="400" ><img src="Image/Drone Airshow/DSC_0678.jpg" height="250" width="400" >
 
 ## Photo Session
-<img src="Image/Photo Session/DSC_0647.jpg" height="250" width="400" ><img src="Image/Photo Session/DSC_0654.jpg" height="250" width="400" ><img src="Image/Photo Session/DSC_0659.jpg" height="250" width="400" ><img src="Image/Photo Session/DSC_0666.jpg" height="250" width="400" >
+<img src="Image/Photo Session/DSC_0647.jpg" height="250" width="400" ><img src="Image/Photo Session/DSC_0659.jpg" height="250" width="400" ><img src="Image/Photo Session/DSC_0654.jpg" height="250" width="400" ><img src="Image/Photo Session/DSC_0666.jpg" height="250" width="400" >
