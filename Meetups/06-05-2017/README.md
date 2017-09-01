@@ -7,23 +7,25 @@
 11:00 AM - 03:00 PM
 ## Keynote Speakers
 **Drones, Maker movement & IoT(Internet Of Things)**
+
 Speaker: Rajdeep Deb
 
 **Hardware Hacking  & Wearable Electronics** 
+
 Speaker: Ayan Pahwa
 
 **Cyber  Vulnerabilities and Security**
+
 Speaker: Sanjeev Pippal
 
 **Artificial Intelligence** 
+
 Speaker: Vijay Rai
 
 ## Show & Tell Speakers
-**Shashank & team-Pydelhi**
-
-**Sai & team-Mangalmay**
-
-**Rohit & team-Frantic Infotech**
++ **Shashank & team-Pydelhi**
++ **Sai & team-Mangalmay**
++ **Rohit & team-Frantic Infotech**
 
  ## Events
  
