@@ -6,37 +6,34 @@
 ## Time
 11:00 AM - 03:00 PM
 ## Keynote Speakers
-**Drones, Maker movement & IoT(Internet Of Things)**
-
+### Drones, Maker movement & IoT(Internet Of Things)
 Speaker: Rajdeep Deb
-
-**Hardware Hacking  & Wearable Electronics** 
-
+### Hardware Hacking  & Wearable Electronics
 Speaker: Ayan Pahwa
-
-**Cyber  Vulnerabilities and Security**
-
+### Cyber  Vulnerabilities and Security
 Speaker: Sanjeev Pippal
-
-**Artificial Intelligence** 
-
+### Artificial Intelligence
 Speaker: Vijay Rai
 
 ## Show & Tell Speakers
+
 + **Shashank & team-Pydelhi**
 + **Sai & team-Mangalmay**
 + **Rohit & team-Frantic Infotech**
++ **Akshay Kumar**
 
- ## Events
- 
- ### DRONE Flight Simulator
- <img src="Image/simulator.jpg" height="350" width="500" >
- 
- ### DRONE Air show
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9mrVgmxYpJw
-" target="_blank"><img src="http://img.youtube.com/vi/9mrVgmxYpJw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
- ### Show'n Tell
- ### 3 Minutes Thought
+## Simulator Session
+<img src="Image/Simulator session/IMG_1232.jpg" height="250" width="400" ><img src="Image/Simulator session/IMG_1134.jpg" height="250" width="400" ><img src="Image/Simulator session/IMG_1151.jpg" height="250" width="400" ><img src="Image/Simulator session/IMG_1394.jpg" height="250" width="400" >
 
- 
+## Speaker Session
+<img src="Image/speaker session/IMG_1198.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1170.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1166.jpg" height="250" width="400" ><img src="Image/speaker session/IMG_1252.jpg" height="250" width="400" >
+
+## Refreshment Session
+<img src="Image/Refreshment session/IMG_1205.jpg" height="250" width="400" ><img src="Image/Refreshment session/IMG_1209.jpg" height="250" width="400" ><img src="Image/Refreshment session/IMG_1213.jpg" height="250" width="400" ><img src="Image/Refreshment session/IMG_1216.jpg" height="250" width="400" >
+
+## Show and Tell
+<img src="Image/Show And Tell/IMG_1476.jpg" height="250" width="400" ><img src="Image/Show And Tell/IMG_1488.jpg" height="250" width="400" >
+
+## Project Presentation
+<img src="Image/Project Presentation/IMG_1217.jpg" height="250" width="400" ><img src="Image/Project Presentation/IMG_1220.jpg" height="250" width="400" >
+
