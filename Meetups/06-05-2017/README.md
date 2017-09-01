@@ -1,4 +1,4 @@
- # Meetup - 02 
+ # Meetup-Galgotias College of Engineering & Technology 
  ## Main Topics 
  + IoT 
  + Wearable electronics 
@@ -12,7 +12,6 @@
  <a href="http://www.galgotiacollege.edu/gcet.asp"><img src="Image/maxresdefault.jpg" height="250" width="500" >
  
  **Galgotias College of Engineering & Technology**
-
  ## Time
  11:00 AM - 03:00 PM
  ## Keynote Speakers
