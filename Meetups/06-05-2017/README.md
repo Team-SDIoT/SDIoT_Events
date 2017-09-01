@@ -1,23 +1,24 @@
- # Meetup-Galgotias College of Engineering & Technology 
- ## Main Topics 
- + IoT 
- + Wearable electronics 
- + Artificial Intelligence 
- + Drones 
- + Maker movement 
- + Hardware Hacking 
- + Cyber  Vulnerabilities and Security.
-
- ## Venue
- <a href="http://www.galgotiacollege.edu/gcet.asp"><img src="Image/maxresdefault.jpg" height="250" width="500" >
+# Meetup-Galgotias College of Engineering & Technology 
+## Venue
+<img src="Image/maxresdefault.jpg" height="250" width="500" >
  
- **Galgotias College of Engineering & Technology**
- ## Time
- 11:00 AM - 03:00 PM
- ## Keynote Speakers
- * Ayan Pahwa
- * Sanjeev Pippal
- * Vijay Rai
+[Galgotias College of Engineering & Technology](http://www.galgotiacollege.edu/gcet.asp)
+## Time
+11:00 AM - 03:00 PM
+## Keynote Speakers
+**Drones, Maker movement & IoT(Internet Of Things)**
+Speaker: Rajdeep Deb
+**Hardware Hacking  & Wearable Electronics** 
+Speaker: Ayan Pahwa
+**Cyber  Vulnerabilities and Security**
+Speaker: Sanjeev Pippal
+**Artificial Intelligence** 
+Speaker: Vijay Rai
+
+## Show & Tell Speakers
+**Shashank & team-Pydelhi**
+**Sai & team-Mangalmay**
+**Rohit & team-Frantic Infotech**
 
  ## Events
  
