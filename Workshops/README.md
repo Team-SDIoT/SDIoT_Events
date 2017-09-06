@@ -1,7 +1,5 @@
 # Workshops
-
-## **Kill yourself in training so, you don't die fighting.**
-
+## **"Kill yourself in training so, you don't die fighting."**
 |S.No.|Workshop Name|Duration|
 |---|---|---|
 |1|[FPV Drone Racing: 101](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/FPV-Drone-Racing-101)|One day|
