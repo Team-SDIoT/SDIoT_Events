@@ -6,3 +6,6 @@
 ## 2. Galgotia College of Engineering and Technology (Greater Noida)
 ### Dated: 1st Feb 2017
 <img src="Image/16427538_1321234141255513_8155278784742438236_n.jpg" height="250" width="400" >
+
+## 3.Delhi Technological University (Delhi)
+### Dated: 5th Feb 2017
