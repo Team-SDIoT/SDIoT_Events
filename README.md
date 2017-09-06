@@ -5,16 +5,19 @@ Smart Thinking For Smart Generation
 SDIoT is the most exclusive, invitation-only, network of high-caliber professionals who want to make the mark
 in the field of Smart Devices and Internet of Things. We lead students on their technological
 transformation, providing innovative next-gen technology solutions and services that leverage deep
-industry expertise and an extensive partner community. Everything about the events organized by SDIoT. You can look up our [Workshops](/Workshops), [Meetups](/Meetups) and [MTDPS(Meet the Drone Pilot Session)](MTDPS).
+industry expertise and an extensive partner community. Everything about the events organized by SDIoT. 
+You can look up our [Workshops](/Workshops), [Meetups](/Meetups) and [MTDPS(Meet the Drone Pilot Session)](MTDPS).
 
 ## SDIoT Team
 ### TBT (The Brain Team):
 **Dr. Rajdeep Deb**
 
 Dr. Rajdeep has a varied background, from smart devices to GUI prototype design. Recently, Dr. Deb has developed a considerable expertise in SQL Server, including the setup of database replication. He is very interested in software engineering best-practice, and guide trainee. His big passion is photomicrography, producing many successful and well received images globally.
+
 **Kanav Kumar**
 
 Kanav kumar our Electrineer an enthusiastic geek for automation using IoT using networking and its real time application with having lots of interest in building thing by DIY. His expertise nerve’s pull up the way of technology and engineering learning by application in automation, smart devices, smart healthcare system and FPVdrone flying.
+
 **Ayan Pahwa**
 
 Ayan belongs to the first generation of Indian drone racing pilot, He is actively advocating and sharing experience on usage of drones and flying experience to individual, commercial industries, government agencies, and many more. His expertise include IoT, Embedded system, Linux, Cloud, Software development and maintenance. He looks after our all round technology division, propelled by Ayan’s overwhelming passion for new technology and innovation.
