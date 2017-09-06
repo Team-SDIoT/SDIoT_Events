@@ -1,9 +1,10 @@
-# Linux Operating System-101
+# Acquainting with Linux operating system
 Linux, which is a free operating system, has been adapted by more computer hardware platforms than any other operating system. It is the most preferred operating system for mobile phones, tablet, computers, network routers and video games, and is used by 95% of the world’s fastest supercomputers. Moreover operating systems based on the Linux kernel are used in embedded systems such as consumer electronics (i.e. set-top boxes, smart TVs, personal video recorders (PVRs),in-vehicle infotainment (IVI), networking equipment, machine control, industrial automation, navigation equipment, spacecraft flight software, and medical instruments in general, making it the most versatile operating system ever developed. For this reason, it is expected especially Electronics, Information Technology and Computer Engineering students should have knowledge of Linux when they finish their graduation so that they are not left out in the job market.
 ## Workshop Details
-Workshop Name : **Linux Operating System-101**
+Workshop Name : **Acquainting with Linux operating system**
 
-Workshop Duration : **One Day**
+Workshop Duration : **Half day (4 hrs)**
+Workshop Fees: **₹ 500/- per student** 
 ## Course Content
 + **Session 1**
   + Linux OS why to use them
