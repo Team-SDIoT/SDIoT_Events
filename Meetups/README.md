@@ -1,4 +1,5 @@
 # Meetups
+## **"The opposite of networking is NOT working"** - Someone smart
 |S.No.|Date|Organisation|Location|Go to Meetup..|
 |---|---|---|---|---|
 |1|02-04-2017|The Founders Cafe|Delhi|[Meetup@TFC](../../../tree/master/Meetups/02-04-2017/)|
