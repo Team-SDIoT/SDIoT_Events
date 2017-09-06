@@ -1,6 +1,6 @@
 # Workshops
 
-Kill yourself in training so, you don't die fighting.
+**Kill yourself in training so, you don't die fighting.**
 
 |S.No.|Workshop Name| jlfn alj|
 |---|---|---|
