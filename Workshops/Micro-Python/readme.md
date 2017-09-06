@@ -6,7 +6,7 @@ Workshop Name : **Micro Python**
 
 Workshop Duration : **One Day**
 
-Workshop Fees : **₹ 1000/- per student**
+Workshop Fees : **XXX** per student**
 
 ## Course Content
 + **Session 1**
