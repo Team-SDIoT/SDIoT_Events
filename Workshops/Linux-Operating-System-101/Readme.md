@@ -4,7 +4,9 @@ Linux, which is a free operating system, has been adapted by more computer hardw
 Workshop Name : **Acquainting with Linux operating system**
 
 Workshop Duration : **Half day (4 hrs)**
+
 Workshop Fees: **₹ 500/- per student** 
+
 ## Course Content
 + **Session 1**
   + Linux OS why to use them
@@ -26,15 +28,17 @@ Workshop Fees: **₹ 500/- per student**
      + Raspberry pi
      + BEAGLEBONE BLACK
   + IoT demo with embedded Linux
+  
+## Pre-requisites
++ Suitable for BTech student of any discipline.
++ Basic computer concept.
++ Needed a laptop with Ubuntu installed as virtual machine, dual boot or full OS, or Linux lab.
++ Basic Programming Knowledge.
 ## Learning outcomes
 This workshop will teach you:
 + Background and training you need to start working with Linux.
 + Learn the methods and internal infrastructure of the Linux kernel.
 + Step-by-step framework for developing an embedded Linux product.
-## Pre-requisites
-+ Basic computer concept.
-+ Needed a laptop with Ubuntu installed as virtual machine, dual boot or full OS, or Linux lab.
-+ Basic Programming Knowledge.
 ## Our Pedagogy
 Our proposed workshop is based on experiential learning methodology, which involves a series of highly interactive and intense individual and group based activities. Our relationship with students continues even after the workshop where we offer online and offline technical support to convert their ideas into reality.
 ## Benefits/Takeaway/Motivation
