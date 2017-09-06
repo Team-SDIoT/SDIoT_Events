@@ -10,6 +10,4 @@
 |6|[Micro Python](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Micro-Python)|One day|
 |7|[Mobile Robotics](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Mobile%20Robotics)|One day|
 |8|[Aeromodeling with Hovercraft](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Aeromodeling%20with%20Hovercraft)|One day|
-|9|Design Thinking| |    
-|10|Get Tagged with NFC & RFID| |
 
