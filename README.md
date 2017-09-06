@@ -6,9 +6,10 @@ SDIoT is the most exclusive, invitation-only, network of high-caliber profession
 in the field of Smart Devices and Internet of Things. We lead students on their technological
 transformation, providing innovative next-gen technology solutions and services that leverage deep
 industry expertise and an extensive partner community. Everything about the events organized by SDIoT. 
+
 You can look up our [Workshops](/Workshops), [Meetups](/Meetups) and [MTDPS(Meet the Drone Pilot Session)](MTDPS).
 
-## SDIoT Team
+## Team SDIoT 
 ### TBT (The Brain Team):
 **Dr. Rajdeep Deb**
 
