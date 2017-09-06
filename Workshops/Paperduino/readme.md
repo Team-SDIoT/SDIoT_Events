@@ -5,7 +5,7 @@ Workshop Name : **Paperduino**
 
 Workshop Duration : **One Day**
 
-Workshop Fees : 
+Workshop Fees : **₹ 500/- per student**
 
 ## Course Content
 + **Session 1**
