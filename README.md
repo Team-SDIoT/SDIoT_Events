@@ -7,7 +7,11 @@ in the field of Smart Devices and Internet of Things. We lead students on their 
 transformation, providing innovative next-gen technology solutions and services that leverage deep
 industry expertise and an extensive partner community. Everything about the events organized by SDIoT. 
 
-You can look up our [Workshops](/Workshops), [Meetups](/Meetups) and [MTDPS(Meet the Drone Pilot Session)](MTDPS).
+## Popular Events
++ [Workshops](/Workshops)
++ [Meetups](/Meetups)
++ [MTDPS(Meet the Drone Pilot Session)](MTDPS)
++ Others
 
 ## Team SDIoT 
 ### TBT (The Brain Team):
