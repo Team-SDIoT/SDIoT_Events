@@ -6,37 +6,35 @@ Workshop Name : **Micro Python**
 
 Workshop Duration : **One Day**
 
-Workshop Fees : **XXX** per student**
+Workshop Fees : **XXX per student**
 
 ## Course Content
 + **Session 1**
-  + Physics of Paperduino
-  + Basic of Paperduino architecture and firmware
-  + Get to know about commands associated with Paperduino
+  + Basics of Micropython
+  + Pros and cons of MicroPython
+  + Boards supported by MicroPython
 + **Session 2**
-  + Get familiar with Paperduino parts
-  + Their use and functioning
+  + Library stacks supported by MicroPython
+  + Implement Web & serial REPL (Read Evaluate Print Loop)
 + **Session 3**
-  + Soldering session: Learn how to solder microcontroller.
+  + Learn tools to make life easy with MicroPython
+  + Get to know Networking & Hardware tinkering with MicroPython 
 + **Session 4**
-  + Upload your first program on paperduino
+  + Implement your first program on ESP 8266 12E using Micropython
   + Project Presentation & certificate distribution.
 ## Pre-Requisites
-+ Basic programming knowledge of ‘C’ would be good though not actually required.
-+ Basic knowledge of electronics components is an add-on. 
-+ Basic soldering knowledge
-+ Concept of ohms law,voltage, resistance, current.
++ Basic programming knowledge would be good though not actually required.
++ Needed a laptop with Ubuntu installed as virtual machine, dual boot or full OS, or Linux lab.
 ## Learning Outcomes
-+ Knowledge of microprocessor/microcontroller architecture and organization.
-+ Embedded system firmware programming.
++ Knowledge of micropython and how it is different from python.
 + Basics of IoT(Internet of things).
-+ About electronics and software associated with a Paperduino.
-+ Helpful tips, tricks, and considerations while soldering and Uploading your first program into paperduino.
++ About electronics and software associated with a Micropython.
++ Helpful tips, tricks, and considerations while Uploading and testing your first program on **ESP 8266 12E**.
 ## Our Pedagogy
 Our proposed workshop is based on experiential learning methodology, which involves a series of highly interactive and intense individual and group based activities. Our relationship with students continues even after the workshop where we offer online and offline technical support to convert their ideas into reality.
 ## Benefits/Takeaway/Motivation
 + Each Participant will get a participation certificate.
-+ Hands on soldering session for all participants.
++ Hands on session for all participants.
 + Each participant will get E-book and future guidance for their projects.
 + Free Membership SDIoT SYK (Share Your Knowledge) Group: Lifetime Email support.
 + 50% Discount on SDIoT P4U Lab Membership.
