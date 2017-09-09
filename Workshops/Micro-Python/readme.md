@@ -1,4 +1,4 @@
-# MicroPython
+# MicroPython <img src="Micropython.jpg" height="10" width="10">
 MicroPython includes the standard Python interpreter that runs on small embedded development boards. With MicroPython, you can write Python scripts to control hardware. For example, you can make LEDs blink, communicate with a temperature sensor, control motors and publish a sensor reading on the Internet. It is worth noting that the firmware for such embedded devices is generally coded in Assembly, C or C++, but using MicroPython you can achieve almost the same results as with high level Python.
 
 ## Workshop Details
