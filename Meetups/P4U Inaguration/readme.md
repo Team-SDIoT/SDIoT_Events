@@ -17,3 +17,9 @@ SDIoT P4U Lab-Greater Noida
 
 ## SDIoT one of its kind Inhouse Drone VR Video session
 <img src="Image/VR video/IMG_1974.JPG" height="250" width="400"><img src="Image/VR video/IMG_1966.JPG" height="250" width="400">
+
+## Networking Session
+<img src="Image/Networking Session/DSC_0008.JPG" height="250" width="400"><img src="Image/Networking Session/IMG_1956.JPG" height="250" width="400"><img src="Image/Networking Session/IMG_1998.JPG" height="250" width="400"><img src="Image/Networking Session/IMG_2014.JPG" height="250" width="400">
+
+## Group Photo
+<img src="Image/Photo session/IMG_1935.JPG" height="500" width="800">
