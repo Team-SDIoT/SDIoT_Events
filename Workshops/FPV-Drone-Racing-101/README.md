@@ -1,4 +1,4 @@
-# <img src="Micropython.jpg" height="50" width="70">FPV Drone Racing: 101
+# <img src="Drone.png" height="50" width="70">FPV Drone Racing: 101
 Flying an FPV (first person view) drone is an out of the world experience.
 It is not much before, when only in movies and video games one can think about drone racing, now a bird’s-eye view or race through obstacles at breakneck speeds is a reality. Through this workshop we are bringing this to your fingertips, now you too can wear your flying goggles and enjoy the breathtaking maneuver of drone right in front of your eyes.
 ## Workshop Details
