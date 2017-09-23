@@ -1,4 +1,4 @@
-# Introduction to Software version control and collaboration coding using git and GitHub
+# <img src="Github.png" height="60" width="90">Introduction to Software version control and collaboration coding using git and GitHub
 If you go by the sheer number that GitHub have 20 million user and 52 million projects, this is something every engineering student should try their hand. Either host code, manage projects, or build software what not you could do alongside millions of your fellow peers using the GitHub ecosystem. In total, GitHub is home to open source projects written in 316 unique programming languages. From the code that sent Apollo 11 to the moon, to an open source curriculum that helps nonprofits, you’ll find them all. We’re excited to offer this workshop to you and hope you will use the learning gained from the workshop to expand the GitHub Universe. Finally let's be honest—if you're not hosting your source code on GitHub, your open source project pretty much doesn't exist.
 ## Workshop Details
 Workshop Name : **Introduction to Software version control and collaboration coding using git and GitHub**
