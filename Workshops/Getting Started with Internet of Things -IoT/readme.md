@@ -1,4 +1,4 @@
-# <img src="Iot.png" height="60" width="90">Getting Started with Internet of Things (IoT)
+# <img src="Iot.png" height="70" width="120">Getting Started with Internet of Things (IoT)
 The internet of things offers an unparalleled opportunity to ignite profound business transformation across every
 industry. We are moving towards a new computing paradigm, which will involve trillions of connected
 devices. This workshop will leverages and explores the infrastructure, communication, sensor
