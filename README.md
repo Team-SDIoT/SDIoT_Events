@@ -10,8 +10,8 @@ industry expertise and an extensive partner community. Everything about the even
 ## Popular Events
 + [Workshops](/Workshops)
 + [Meetups](/Meetups)
-+ [MTDPS (Meet the Drone Pilot Session)](MTDPS)
-+ [Pop-Up Classes](Pop-up)
++ [MTDPS (Meet the Drone Pilot Session)](/MTDPS)
++ [Pop-Up Classes](/Pop-up)
 + Others
 
 ## Team SDIoT 
