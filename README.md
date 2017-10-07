@@ -12,7 +12,7 @@ industry expertise and an extensive partner community. Everything about the even
 + [Meetups](/Meetups)
 + [MTDPS (Meet the Drone Pilot Session)](/MTDPS)
 + [Pop-Up Classes](/Pop-Up)
-+ Others
++ [Others](/Others)
 
 ## Team SDIoT 
 ### TBT (The Brain Team):
