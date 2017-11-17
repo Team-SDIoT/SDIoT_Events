@@ -60,6 +60,10 @@ Our proposed workshop is based on experiential learning methodology, which invol
 + SDIoT P4U Lab t-shirts for top 2 makers group in every college.
 ## SDIoT P4U Lab
 P4U lab is an initiative of SDIoT to inspire Tech-enthusiasts and Entrepreneurs to turn their ideas into new prototypes and products by giving them access to a range of advanced digital manufacturing technology. It began as a common working place of SDIoT members, and became into a collaborative platform of tech-enthusiast from Delhi NCR. You can find more information about P4U Lab on the SDIoT Website.
+## Venues
+| S.No. | Date | College | Location | Go to Workshop.. |
+| ---- | ---- | --- | --- | --- |
+| 1 | 18-11-2017 | BML Munjal University | Gurgaon, Haryana  | [Workshop@JRE] |
 ## Cavent and Contact for Correspondence
 The recipient must treat the information shared herewith the document confidential and private. The recipient is not authorized to use or share the information without prior approval from the author of the document. For correspondence, please contact:
                                                      
