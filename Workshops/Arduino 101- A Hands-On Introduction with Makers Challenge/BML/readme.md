@@ -16,7 +16,6 @@
 ## Maker Challenge
 <img src="Maker Challenge/IMG_2560.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2562.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2586.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2602.JPG" height="250" width="440" >
 ## Felicitation
-<img src="Felicitation/IMG_2559.JPG" height="250" width="440" ><img src="Felicitation/IMG_2624.JPG" height="250" width="440" ><img src="Felicitation/IMG_2625.JPG" height="250" width="440" ><img src="Felicitation/IMG_2628.JPG" height="250" width="440" >
-
+<img src="Felicitation/IMG_2559.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2562.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2586.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2602.JPG" height="250" width="440" >
 
 
