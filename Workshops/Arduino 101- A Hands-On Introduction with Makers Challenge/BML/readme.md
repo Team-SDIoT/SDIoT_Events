@@ -1,4 +1,4 @@
-# [BML Munjal University](www.bml.edu.in/)
+# [BML Munjal University](http://www.bml.edu.in/)
 <img src="150304073617_banner.jpg" height="300" width="900" >
 
 # Audience Review
