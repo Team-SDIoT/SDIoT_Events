@@ -63,7 +63,7 @@ P4U lab is an initiative of SDIoT to inspire Tech-enthusiasts and Entrepreneurs 
 ## Venues
 | S.No. | Date | College | Location | Go to Workshop.. |
 | ---- | ---- | --- | --- | --- |
-| 1 | 18-11-2017 | BML Munjal University | Gurgaon, Haryana  | [Workshop@BML] |
+| 1 | 18-11-2017 | BML Munjal University | Gurgaon, Haryana  | [Workshop@BML](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Arduino%20101-%20A%20Hands-On%20Introduction%20with%20Makers%20Challenge/BML) |
 ## Cavent and Contact for Correspondence
 The recipient must treat the information shared herewith the document confidential and private. The recipient is not authorized to use or share the information without prior approval from the author of the document. For correspondence, please contact:
                                                      
