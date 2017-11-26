@@ -6,7 +6,7 @@
 <img src="Audience Review/chart (1).png" height="250" width="440" ><img src="Audience Review/chart (2).png" height="250" width="440" ><img src="Audience Review/chart (3).png" height="250" width="440" ><img src="Audience Review/chart.png" height="250" width="440" >
 
 # Workshop Highlights
-Photo Session/IMG_1028.jpg
+
 ## Technical Session
 <img src="Technical Session/IMG_2180.JPG" height="250" width="440" ><img src="Technical Session/IMG_2247.JPG" height="250" width="440" ><img src="Technical Session/IMG_2262.JPG" height="250" width="440" ><img src="Technical Session/IMG_2268.JPG" height="250" width="440" >
 ## Master trainers
