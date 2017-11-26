@@ -1,4 +1,4 @@
-# [BML Munjal University](www.bml.edu.in/)
+# [BML Munjal University](http://www.bml.edu.in/)
 <img src="150304073617_banner.jpg" height="300" width="900" >
 
 # Audience Review
@@ -16,6 +16,6 @@
 ## Maker Challenge
 <img src="Maker Challenge/IMG_2560.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2562.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2586.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2602.JPG" height="250" width="440" >
 ## Felicitation
-<img src="Felicitation/IMG_2559.JPG" height="250" width="440" ><img src="Felicitation/IMG_2624.JPG" height="250" width="440" ><img src="Felicitation/IMG_2625.JPG" height="250" width="440" ><img src="Felicitation/IMG_2628.JPG" height="250" width="440" >
+<img src="Felicitation/IMG_2559.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2562.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2586.JPG" height="250" width="440" ><img src="Maker Challenge/IMG_2602.JPG" height="250" width="440" >
 
 
