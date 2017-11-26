@@ -2,7 +2,6 @@
 <img src="150304073617_banner.jpg" height="300" width="900" >
 
 # Audience Review
-
 <img src="Audience Review/chart (1).png" height="250" width="440" ><img src="Audience Review/chart (2).png" height="250" width="440" ><img src="Audience Review/chart (3).png" height="250" width="440" ><img src="Audience Review/chart.png" height="250" width="440" >
 
 # Workshop Highlights
