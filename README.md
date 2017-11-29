@@ -28,10 +28,17 @@ Kanav kumar our Electrineer an enthusiastic geek for automation using IoT using 
 
 Ayan belongs to the first generation of Indian drone racing pilot, He is actively advocating and sharing experience on usage of drones and flying experience to individual, commercial industries, government agencies, and many more. His expertise include IoT, Embedded system, Linux, Cloud, Software development and maintenance. He looks after our all round technology division, propelled by Ayan’s overwhelming passion for new technology and innovation.
 
-### TIT (Technology Innovation Team):
+**Abhishek Maurya**
+
+Mr. Abhishek is the go to man in SDIoT with expertise in Radio Control devices, Robotics, IoT, IoT Protocols with its application, Embedded system, GitHub, DIY Projects, Smart devices using IoT and what not. Apart from this, he loves mentoring budding makers. He always extends his support to enable them to raise their profile and share their passion for engineering. He learnt how to solder at the age of 11 and electronics has always been a passion for him.
+
 **Akshay Kumar**
 
 People find Akshay to be an upbeat, self-motivated and excellent team player with excellent communication skills. His experience includes developing end-to-end solutions for the Public Transportation sectors. Akshay is packed with technical skills of coding, Android Application Development, Game Development (VR/AR), UX-UI design and Digital Image Processing. Apart from this, he loves teaching. Whenever he is not working, you will find him in the football or gaming field.
+
+**Anshul Katta**
+
+Anshul the tech guy leads the company’s Technology Innovation Group (TIG). In addition to overseeing our technology strategy, Mr. Katta has responsibility for driving innovation through R&D activities; maximizing value from the fast-changing and dynamic technology ecosystem; and leveraging emerging technologies to bring the newest innovations to our clients globally.
 
 ## Our Pedagogy
 Our proposed workshop is based on experiential learning methodology, which involves a series of highly interactive and intense individual and group based activities. Our relationship with students continues even after the workshop where we offer online and offline technical support to convert their ideas into reality.
