@@ -10,7 +10,7 @@
 |6|[Aeromodelling with Airplanes:101](https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/Aeromodeling_with_Airplanes:101)|One Day|
 |7|[Aeromodelling with Airplanes:201](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Aeromodeling_with_Airplanes:201)|One Day|
 |8|[Hoverrush](https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/Hoverrush)|One day|
-|9|[Wearable Fashion Electonics]()|Two Day|
+|9|[Wearable Fashion Electonics](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Wearable%20fashion%20Electronics)|Two Day|
 |10|[MicroPython](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Micro-Python)|One day|
 |11|[Mobile Robotics](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Mobile%20Robotics)|One day|
 |12|[Paperduino](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Paperduino)|One day|
