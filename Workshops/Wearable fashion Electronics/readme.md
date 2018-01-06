@@ -6,7 +6,7 @@ Electronics has become an integral part of our lives. Everything we use today ha
 
 Workshop Name:**Wearable Fashion Electronics**
 
-Workshop Duration: **One Day**
+Workshop Duration: **Two Day**
 
 ## Workshop Content
 + Session 1
