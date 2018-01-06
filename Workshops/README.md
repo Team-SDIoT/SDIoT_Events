@@ -9,7 +9,7 @@
 |5|[Introduction to Software version control and collaboration coding using git and GitHub](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Introduction-to-Github)|Half day (4 hrs)|
 |6|[Aeromodelling with Airplanes:101](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Aeromodeling_with_Airplanes)|One Day|
 |7|[Aeromodelling with Airplanes:201]()|One Day|
-|8|[Hoverrush](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Aeromodeling%20with%20Hovercraft)|One day|
+|8|[Hoverrush](https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/Hoverrush)|One day|
 |9|[Wearable Fashion Electonics]()|Two Day|
 |10|[MicroPython](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Micro-Python)|One day|
 |11|[Mobile Robotics](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Mobile%20Robotics)|One day|
