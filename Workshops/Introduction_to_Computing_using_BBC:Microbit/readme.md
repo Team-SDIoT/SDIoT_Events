@@ -11,23 +11,23 @@ The workshop is planned for one day with the following sessions:
   + Introduction to basic concepts of Computer Science and Electronics
   + Concept of Programming & Micro:BIT board tour.
   + Interfacing I/Os
-   + LEDs
-   + LED Matrix
-   + Scrolling Texts on LED Matrix
+    + LEDs
+    + LED Matrix
+    + Scrolling Texts on LED Matrix
 + **Session-2**
   + Few More Interfacing I/Os
-   + Using pushbuttons for input
-   + Using on-board accelerometers
-   + Reading temperature & Light Levels
-   + Communicating with other bits over Bluetooth radio
+    + Using pushbuttons for input
+    + Using on-board accelerometers
+    + Reading temperature & Light Levels
+    + Communicating with other bits over Bluetooth radio
   + Advanced Programming concepts:
-   + Variables
-   + Loops
-   + Conditional Execution
+    + Variables
+    + Loops
+    + Conditional Execution
 + **Session-3**
   + Using external components
-   + Exploring Micro:BIT gold connectors
-   + Seeed Studios Groove Kit for MicroBIT
+    + Exploring Micro:BIT gold connectors
+    + Seeed Studios Groove Kit for MicroBIT
   + Internal students team competition using microbit
 
 ## Learning Outcomes
