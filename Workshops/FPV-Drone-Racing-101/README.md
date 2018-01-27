@@ -4,20 +4,38 @@ It is not much before, when only in movies and video games one can think about d
 ## Workshop Details
 Workshop Name : **FPV Drone Racing: 101**
 
-Workshop Duration : **One Day**
+Workshop Duration : **Two Day**
 ## Course Content
-+ **Session 1**
++ **Day-1 Session-1 (Theory)**
   + Physics of flying
-  + Drone principles and aerodynamics
-  + Best practice to build and fly
-+ **Session 2**
-  + Get familiar with drone parts
-  + Their use and functioning
-+ **Session 3**
-  + Simulator session: Learn how to fly multirotors.
-+ **Session 4**
-  + Be a part of Drone Air Show
-  + Experience your first **_#SkySelfie_**
+  + Introduction to Aeromodeling using concepts of:
+    + Control Surfaces --  Airplane 
+    + Control Systems -- Drone
++ **Day-1 Session-2 (Hands-on)**
+  + Best practice to build and fly 
+  + Get familiar with drone spare parts
+  + Their use and functioning 
+  + Radio controller 
++ **Day-1 Session-3 (Hands-on)**
+  + Simulator session: Learn how to fly multirotors. 
+  + Live drone flight demonstration
+  + Indoor Flying Experience with Tiny Whoops
++ **Day-2 Session-4 (Hands-on)**
+  + Building & flying self-built drone --  Trainer will perform a live drone build 
+  + Using IAP to flash firmware on flight controller 
+  + Spares Integration and Calibration 
+  + Before flight check-ups
++ **Day-2 Session-5 (Hands-on)**
+  + Telemetry Radio and RC Transmitter Setup
+  + Preparing drone for crash scenarios
+  + Best flying practises ( 3-mistakes high)
++ **Day-2 Session-6 (Wrap-up)**
+  + Breakout Session
+  + SDIoT DIY Project Demos
+  + Virtual Reality 
+  + Drone Airshow (With drone built during session) and #SkySelfie for Participants 
+  + Awards Ceremony
+ 
 ## Learning Outcomes
 + The basic requirement in building and flying a drone
 + About aerodynamics, electronics and software associated with a drone.
