@@ -8,7 +8,7 @@
 |4|[Acquainting with Linux operating system](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Linux-Operating-System-101)|Half day (4 hrs)|
 |5|[Introduction to Software version control and collaboration coding using git and GitHub](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Introduction-to-Github)|Half day (4 hrs)|
 |6|[Wearable Fashion Electonics](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Wearable%20fashion%20Electronics)|Two Day|
-|7|[Introduction to Computing using BBC:Microbit](https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/Introduction to Computing using BBC:Microbit)|One Day|
+|7|[Introduction to Computing using BBC:Microbit](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Introduction_to_Computing_using_BBC:Microbit)|One Day|
 |8|[Aeromodelling with Airplanes:101](https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/Aeromodeling_with_Airplanes:101)|One Day|
 |9|[Aeromodelling with Airplanes:201](https://github.com/Team-SDIoT/SDIoT_Events/tree/master/Workshops/Aeromodeling_with_Airplanes:201)|One Day|
 |10|[Hoverrush](https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/Hoverrush)|One day|
