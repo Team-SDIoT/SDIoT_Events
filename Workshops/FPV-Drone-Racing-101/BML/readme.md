@@ -3,8 +3,7 @@
 
 # Audience Review
 
-<img src="Audience Review/chart (6).png" height="250" width="440" ><img src="Audience Review/chart (7).png" height="250" width="440" ><img src="Audience Review/chart (8).png" height="250" width="440" ><img src="Audience Review/chart (9).png
-" height="250" width="440" ><img src="Audience Review/chart (10).png" height="250" width="440" ><img src="Audience Review/chart (11).png" height="250" width="440" >
+<img src="Audience Review/chart (6).png" height="250" width="440" ><img src="Audience Review/chart (7).png" height="250" width="440" ><img src="Audience Review/chart (8).png" height="250" width="440" ><img src="Audience Review/chart (9).png" height="250" width="440" ><img src="Audience Review/chart (10).png" height="250" width="440" ><img src="Audience Review/chart (11).png" height="250" width="440" >
 
 # Workshop Highlights
 
