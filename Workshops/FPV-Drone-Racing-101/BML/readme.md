@@ -8,7 +8,7 @@
 # Workshop Highlights
 
 ## Technical Session
-<img src="Technical Session/IMG_2898.JPG" height="250" width="440" ><img src="Technical Session/IMG_2905.jpg" height="250" width="440" ><img src="Technical Session/IMG_2922.JPG" height="250" width="440" ><img src="Technical Session/IMG_3170.jpg" height="250" width="440" >
+<img src="Technical Session/IMG_2898.JPG" height="250" width="440" ><img src="Technical Session/IMG_2905.JPG" height="250" width="440" ><img src="Technical Session/IMG_2922.JPG" height="250" width="440" ><img src="Technical Session/IMG_3170.JPG" height="250" width="440" >
 ## Simulator Session
 <img src="Simulator/IMG_2968.JPG" height="250" width="440" ><img src="Simulator/IMG_3016.JPG" height="250" width="440" ><img src="Simulator/IMG_3041.JPG" height="250" width="440" ><img src="Simulator/IMG_3046.JPG" height="250" width="440" >
 ## Airplane Build Session
