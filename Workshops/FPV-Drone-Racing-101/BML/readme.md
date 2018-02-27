@@ -1,9 +1,10 @@
-# [Jamia Millia Islamia](http://jmi.ac.in/)
-<img src="JMI-BDS-Results.jpg" height="300" width="900" >
+# [BML Munjal University](http://www.bml.edu.in/)
+<img src="150304073617_banner.jpg" height="300" width="900" >
 
 # Audience Review
 
-<img src="Audience Review/Jamia_1.png" height="250" width="440" ><img src="Audience Review/Jamia_2.png" height="250" width="440" ><img src="Audience Review/Jamia_3.png" height="250" width="440" ><img src="Audience Review/Jamia_4.png" height="250" width="440" ><img src="Audience Review/Jamia_5.png" height="250" width="440" ><img src="Audience Review/Jamia_6.png" height="250" width="440" ><img src="Audience Review/Jamia_7.png" height="250" width="440" ><img src="Audience Review/Jamia_8.png" height="250" width="440" ><img src="Audience Review/Jamia_9.png" height="250" width="440" ><img src="Audience Review/Jamia_10.png" height="250" width="440" >
+<img src="Audience Review/chart (6).png" height="250" width="440" ><img src="Audience Review/chart (7).png" height="250" width="440" ><img src="Audience Review/chart (8).png" height="250" width="440" ><img src="Audience Review/chart (9).png
+" height="250" width="440" ><img src="Audience Review/chart (10).png" height="250" width="440" ><img src="Audience Review/chart (11).png" height="250" width="440" >
 
 # Workshop Highlights
 
