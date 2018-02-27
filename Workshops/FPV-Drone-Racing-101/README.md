@@ -63,11 +63,6 @@ P4U lab is an initiative of SDIoT to inspire Tech-enthusiasts and Entrepreneurs 
 | 2 | 18 Feb 2K17 | Jamia Milia Islamia | Delhi | [Workshop@Jamia](/Workshops/FPV-Drone-Racing-101/JMI/) |
 | 3 | 17-18 Feb 2K18 | BML Munjal University | Delhi NCR | [Workshop@BML](/Workshops/FPV-Drone-Racing-101/BML/) |
 | 4 | 22-23 Feb 2K18 | BITS Pilani  | Rajisthan | [Workshop@Bits](/Workshops/FPV-Drone-Racing-101/Bits/) |
-
-
-
-https://github.com/Team-SDIoT/SDIoT_Events/blob/master/Workshops/FPV-Drone-Racing-101/BML/readme.md
-
 ## SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
 " target="_blank"><img src="http://img.youtube.com/vi/xx-MSRvAeJE/0.jpg" 
