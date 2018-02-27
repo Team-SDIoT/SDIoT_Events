@@ -8,12 +8,15 @@
 # Workshop Highlights
 
 ## Technical Session
-<img src="Technical Session/IMG_0854.jpg" height="250" width="440" ><img src="Technical Session/IMG_0902.jpg" height="250" width="440" >
-## Certificate Distribution
-<img src="Certificate Distribution/IMG_1043.jpg" height="250" width="440" ><img src="Certificate Distribution/IMG_1045.jpg" height="250" width="440" >
+<img src="Technical Session/IMG_2898.JPG" height="250" width="440" ><img src="Technical Session/IMG_2905.jpg" height="250" width="440" ><img src="Technical Session/IMG_2922.JPG" height="250" width="440" ><img src="Technical Session/IMG_3170.jpg" height="250" width="440" >
+## Simulator Session
+<img src="Simulator/IMG_2968.JPG" height="250" width="440" ><img src="Simulator/IMG_3016.JPG" height="250" width="440" ><img src="Simulator/IMG_3041.JPG" height="250" width="440" ><img src="Simulator/IMG_3046.JPG" height="250" width="440" >
+## Airplane Build Session
+<img src="Airplane Build/IMG_3099.JPG" height="250" width="440" ><img src="Airplane Build/IMG_3101.JPG" height="250" width="440" >
 ## Drone Airshow
-<img src="Drone Airshow/IMG_0993.jpg" height="250" width="440" ><img src="Drone Airshow/IMG_1022.jpg" height="250" width="440" >
+<img src="Drone Airshow/IMG_3204.JPG" height="250" width="440" ><img src="Drone Airshow/IMG_3210.JPG" height="250" width="440" ><img src="Drone Airshow/IMG_3235.JPG" height="250" width="440" ><img src="Drone Airshow/IMG_3245.JPG" height="250" width="440" >
+## Certificate Distribution
+<img src="Certificate Distribution/IMG_3598.JPG" height="250" width="440" ><img src="Certificate Distribution/IMG_3599.JPG" height="250" width="440" ><img src="Certificate Distribution/IMG_3604.JPG" height="250" width="440" ><img src="Certificate Distribution/IMG_3611.JPG" height="250" width="440" >
 ## Photo Session
-<img src="Photo Session/IMG_1003.jpg" height="250" width="440" ><img src="Photo Session/IMG_1015.jpg" height="250" width="440" ><img src="Photo Session/IMG_1028.jpg" height="250" width="440" ><img src="Photo Session/IMG_1054.jpg" height="250" width="440" >
-
+<img src="Group Photoes/IMG_3109.JPG" height="250" width="440" ><img src="Group Photoes/IMG_3592.JPG" height="250" width="440" >
 
