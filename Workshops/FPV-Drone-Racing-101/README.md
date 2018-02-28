@@ -59,9 +59,10 @@ P4U lab is an initiative of SDIoT to inspire Tech-enthusiasts and Entrepreneurs 
 ## Venues
 | S.No. | Date | College | Location | Go to Workshop.. |
 | ---- | ---- | --- | --- | --- |
-| 1 | 10-02-2017 | JRE Group of Institutions | Greater Noida | [Workshop@JRE](/Workshops/FPV-Drone-Racing-101/JRE/) |
-| 2 | 18-02-2017 | Jamia Milia Islamia | Delhi | [Workshop@Jamia](/Workshops/FPV-Drone-Racing-101/JMI/) |
-
+| 1 | 10 Feb 2K17 | JRE Group of Institutions | Greater Noida | [Workshop@JRE](/Workshops/FPV-Drone-Racing-101/JRE/) |
+| 2 | 18 Feb 2K17 | Jamia Milia Islamia | Delhi | [Workshop@Jamia](/Workshops/FPV-Drone-Racing-101/JMI/) |
+| 3 | 17-18 Feb 2K18 | BML Munjal University | Delhi NCR | [Workshop@BML](/Workshops/FPV-Drone-Racing-101/BML/) |
+| 4 | 22-23 Feb 2K18 | BITS Pilani  | Rajisthan | [Workshop@Bits](/Workshops/FPV-Drone-Racing-101/Bits/) |
 ## SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
 " target="_blank"><img src="http://img.youtube.com/vi/xx-MSRvAeJE/0.jpg" 
