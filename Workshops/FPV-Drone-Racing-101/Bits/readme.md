@@ -6,11 +6,11 @@
 # Workshop Highlights
 
 ## Technical Session
-<img src="Technical Session/IMG_3934.JPG" height="250" width="440" ><img src="Technical Session/IMG_3946.JPG" height="250" width="440" ><img src="Technical Session/IMG_4046.JPG" height="250" width="440" ><img src="Technical Session/IMG_4055.JPG" height="250" width="440" >
+<img src="Technical Session/IMG_3934.JPG" height="250" width="440" ><img src="Technical Session/IMG_4046.JPG" height="250" width="440" ><img src="Technical Session/IMG_3946.JPG" height="250" width="440" ><img src="Technical Session/IMG_4055.JPG" height="250" width="440" >
 ## Simulator Session
-<img src="Simulator/IMG_4029.JPG" height="250" width="440" ><img src="Simulator/IMG_4030.JPG" height="250" width="440" ><img src="Simulator/IMG_4035.JPG" height="250" width="440" ><img src="Simulator/IMG_4039.JPG" height="250" width="440" >
+<img src="Simulator/IMG_4029.JPG" height="250" width="440" ><img src="Simulator/IMG_4035.JPG" height="250" width="440" ><img src="Simulator/IMG_4030.JPG" height="250" width="440" ><img src="Simulator/IMG_4039.JPG" height="250" width="440" >
 ## Airplane Build Session
-<img src="Airplane Build/IMG_3966.JPG" height="250" width="440" ><img src="Airplane Build/IMG_3973.JPG" height="250" width="440" ><img src="Airplane Build/IMG_3998.JPG" height="250" width="440" ><img src="Airplane Build/IMG_4012.JPG" height="250" width="440" ><img src="Airplane Build/IMG_4017.JPG" height="250" width="440" ><img src="Airplane Build/IMG_4020.JPG" height="250" width="440" >
+<img src="Airplane Build/IMG_3966.JPG" height="250" width="440" ><img src="Airplane Build/IMG_3973.JPG" height="250" width="440" ><img src="Airplane Build/IMG_3998.JPG" height="250" width="440" ><img src="Airplane Build/IMG_4017.JPG" height="250" width="440" ><img src="Airplane Build/IMG_4012.JPG" height="250" width="440" ><img src="Airplane Build/IMG_4020.JPG" height="250" width="440" >
 ## Drone Airshow
 <img src="Drone Airshow/IMG_4124.JPG" height="250" width="440" ><img src="Drone Airshow/IMG_4159.JPG" height="250" width="440" ><img src="Drone Airshow/MVIMG_20180224_163450.jpg" height="250" width="440" ><img src="Drone Airshow/MVIMG_20180224_164042.jpg" height="250" width="440" >
 ## Tiny Whoop Race
