@@ -2,7 +2,7 @@
 <img src="slider2.jpg" height="300" width="900" >
 
 # Audience Review
-<img src="Audience Review/chart (1).png" height="250" width="440" ><img src="Audience Review/chart (2).png" height="250" width="440" ><img src="Audience Review/chart (4).png" height="250" width="440" ><img src="Audience Review/chart.png" height="250" width="440" ><img src="Audience Review/chart (5).png" height="250" width="440" ><img src="Audience Review/chart12.png" height="250" width="440" >
+<img src="Audience Review/chart (1).png" height="250" width="440" ><img src="Audience Review/chart (2).png" height="250" width="440" ><img src="Audience Review/chart (4).png" height="250" width="440" ><img src="Audience Review/chart02.png" height="250" width="440" ><img src="Audience Review/chart (5).png" height="250" width="440" ><img src="Audience Review/chart12.png" height="250" width="440" >
 # Workshop Highlights
 
 ## Technical Session
