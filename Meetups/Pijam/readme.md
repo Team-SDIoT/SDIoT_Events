@@ -1,4 +1,4 @@
-# RaspberryPi birthday with PiJam
+# ILUG-D PIJAM Powered by SDIoT
 
 ## Venue
 [**Investopad**](https://investopad.com/)
