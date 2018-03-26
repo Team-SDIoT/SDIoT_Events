@@ -7,7 +7,7 @@ platforms, communication protocols, and the types of services that are enabled f
 ## Workshop Details
 Workshop Name      : **Internet of Things (IoT) BootCamp**
 
-Workshop Duration  : **Two Day**
+Workshop Duration  : **Two Days**
 ## Course Content
 The workshop is planned for two days with the following sessions:
 + **Day-1 Session-1 (Theory)**
