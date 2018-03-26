@@ -2,39 +2,71 @@
 The internet of things offers an unparalleled opportunity to ignite profound business transformation across every
 industry. We are moving towards a new computing paradigm, which will involve trillions of connected
 devices. This workshop will leverages and explores the infrastructure, communication, sensor
-technologies, networking technologi Work Breakdown Structure (WBS)es, data/storage/analytics and security aspects of IoT. Participants
-taking this workshop will be introduced to the fundamentals of the IoT paradigm, including hardware
-platforms, communication protocols, and the types of services that can be enabled over this ecosystem.
+technologies, networking technologi Work Breakdown Structure (WBS)es, data/storage/analytics and security aspects of IoT. Participants taking this workshop will be introduced to the fundamentals of the IoT paradigm, including hardware
+platforms, communication protocols, and the types of services that are enabled for this ecosystem.
 ## Workshop Details
-Workshop Name      : **Getting Started with Internet of Things (IoT)**
+Workshop Name      : **Internet of Things (IoT) BootCamp**
 
 Workshop Duration  : **Two Day**
 ## Course Content
-The workshop is planned for one day with the following sessions:
+The workshop is planned for two days with the following sessions:
 + **Day-1 Session-1 (Theory)**
   + IoT: What & Why
+  + Why participate in this bootcamp
+  + Different IoT Applicationd
+  + Real world IoT deployed examples
   + Interoperability of IoT systems
   + IoT Analytics & Applications
+  
 + **Day-1 Session-2 (Hardware)**
-  + Introduction of Node MCU ESP8266
-  + Interfacing electronics parts with Node MCU
+  + Hardware platform choices for IOT
+  + Comparision of different hardwares
+  + Bare Metal VS RTOS VS Operating system enabled SoCs
+  + Commuinication support(Ethernet, WiFi, BLE, LoRA)
+  + Introduction of ESP8266, NodeMCU WiFi Development board
+  + Interfacing different components with Node MCU
   + Sensors, Actuators and Protocols
+  + Mini Project: WebServer displaying sensor data to mobile devices
+  
 + **Day-1 Session-3 (Software)**
   + IoT: Firmware & OS
-  + Remote Controlled using IoT
-  + Implementation of IoT Protocols
-+ **Day-2 Session-4 (Cloud Integration)**
+  + Pin Mapping and GPIOs
+  + Controlling hardware by writing firmware
+  + Optimizing service routines for IoT real time applications
+  + Importance of deep sleep modes for IoT optimizations especially for battery powered nodes
+  + Mini Project: Creating Python Flask based REST enabled webApp with creative frontEnd
+  
++ **Day-1 Session-4 (Communication Protocol)**
+  + Different options for commuinications
+  + Infrastructure independent vs Infrastructure dependent
+  + Ethernet vs WiFi
+  + Network layer protocols
+  + HTTP REST API
+  + MQTT protocol for publish subscribe based model
+  + Discussion on other protocols: Bluetooth, LoRA, 6LoWPAN, CoAP, LWM2M etc.
+  
++ **Day-2 Session-1 (Cloud Integration)**
   + Interfacing with Cloud Server
-  + Cloud Dashboard
+  + Cloud Dashboard for customized IoT Applications 
   + Bringing together Hardware, Software & Cloud
-+ **Day-2 Session-5 (Projects)**
-  + Planning and Building an IoT solution
-  + Work Breakdown Structure (WBS)
-  + Internet monitoring, control and Testing
-+ **Day-2 Session-6 (Projects & Wrap-up)**
-  + Data Acquisition and Cloud Server Integration
-  + Project Presentation
-  + Certificate Distribution
+  + API keys and integrartion
+  + Securing your IoT App
+  + Mini Project: Deplopying IoT App on public cloud like AWS, AdafruitIO, EclipseIoT
+  
++ **Day-2 Session-2 (Projects)**
+  + Cloud Data Acquisition and telemetry
+  + Remote control of actuators
+  + Device Management, Fault tolerence
+  + Embedded linux - Need for OS, A case study
+
++ Major Project
+  + Using DHT-11 sensor to measure and remote log temperature and humidity value
+  + Creating a dashboard to visualize data
+  + Creating Data triggers on temperature values
+  + Adding actuators
+  + Practical IoT based Home automation for remote management and theft security.
+  + Components to be use: DHT-11 sensor, IR sensor, WS8212 LED, Relays.
+  
 ## Learning Outcomes
 This workshop will teach you:
 + An understanding of how microprocessors, sensors, and radio hardware are integrated in an embedded
@@ -52,7 +84,7 @@ Our proposed workshop is based on experiential learning methodology, which invol
 + Each Participant will get a participation certificate.
 + SDIoT Toolkit: Participant in a group of 3 will get a toolkit.
 + Each participant will get E-book and future guidance for their projects.
-+ Free Membership SDIoT SYK (Share Your Knowledge) Group: Lifetime Email support.
++ Free Membership SDIoT SYK (Share Your Knowledge) Group.
 + 50% Discount on SDIoT P4U Lab Membership.
 + SDIoT P4U Lab t-shirts for top 2 rankers in every college.
 ## SDIoT P4U Lab
