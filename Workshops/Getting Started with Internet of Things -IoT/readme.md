@@ -22,16 +22,16 @@ The workshop is planned for two days with the following sessions:
   + Hardware platform choices for IOT
   + Comparision of different hardwares
   + Bare Metal VS RTOS VS Operating system enabled SoCs
-  + Commuinication support(Ethernet, WiFi, BLE, LoRA)
+  + Commuinication support(Ethernet, IEEE 802.11 WiFi, BLE, LoRA)
   + Introduction of ESP8266, NodeMCU WiFi Development board
   + Interfacing different components with Node MCU
-  + Sensors, Actuators and Protocols
-  + Mini Project: WebServer displaying sensor data to mobile devices
+  + Sensors, Actuators and communication channels - An OSI breakdown
+  + Mini Project: WebServer displaying sensor data on mobile devices
   
 + **Day-1 Session-3 (Software)**
   + IoT: Firmware & OS
   + Pin Mapping and GPIOs
-  + Controlling hardware by writing firmware
+  + Controlling hardware by programming firmware
   + Optimizing service routines for IoT real time applications
   + Importance of deep sleep modes for IoT optimizations especially for battery powered nodes
   + Mini Project: Creating Python Flask based REST enabled webApp with creative frontEnd
