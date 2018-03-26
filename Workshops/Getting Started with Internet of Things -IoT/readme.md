@@ -13,10 +13,10 @@ The workshop is planned for two days with the following sessions:
 + **Day-1 Session-1 (Theory)**
   + IoT: What & Why
   + Why participate in this bootcamp
-  + Different IoT Applicationd
+  + Different IoT Applications
   + Real world IoT deployed examples
-  + Interoperability of IoT systems
-  + IoT Analytics & Applications
+  + Generating analytics with IoT
+  + IoT and AI wonders
   
 + **Day-1 Session-2 (Hardware)**
   + Hardware platform choices for IOT
