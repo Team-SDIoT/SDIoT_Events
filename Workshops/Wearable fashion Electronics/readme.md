@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Wearable Fashion Electronics
 
 Electronics has become an integral part of our lives. Everything we use today has some form of electronics embedded in it. However, learning about electronics and circuits is usually considered dry, complex and boring. One way to make teaching electronics interesting is by allowing students to design their own gadgets that they can wear and show off. Examples of such gadgets includes the design of a tie that lights up, or an earring that displays changing bright colors. It could be a hair bow designed with bright color LEDs or a bike helmet that can change colors in the night. It may be a jacket with built-in GPS, or a dance costume, or, friendship bracelet that can talk. The possibilities are endless, and it is up to the imagination of students. This workshop will focus on introducing wearable technology using an Arduino compatible wearable microcontroller.

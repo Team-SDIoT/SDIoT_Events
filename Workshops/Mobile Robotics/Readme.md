@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Mobile Robotics
 Mobile Robotics is a fast evolving, solutions orientated, industry within which the robotics engineer is a significant and growing work role. Robotics engineers must be familiar with logic, microprocessors, and computer programming so that they can design the right robot for each application like manufacturing, agriculture, aerospace, mining, and medicine.
 ## Workshop Details

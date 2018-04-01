@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Workshops
 ## **"Kill yourself in training so, you don't die fighting."**
 |S.No.|Workshop Name|Duration|

@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Hoverrush
 Get to know all principles governing the aerodynamics of this machine, and, of course, the electronics. The workshop will be kick started with a small introduction to the hovercraft and its working principles. You will be made clear about the design of the hovercraft and other aspects of electronics that we will be using. By the end of the workshop, participant teams will have made a remote controlled hovercraft which they will take it with them and most importantly participants will witness one of its kind hovercraft race and win excited gifts!
 ## Workshop Details

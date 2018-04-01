@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/)
 <img src="slider2.jpg" height="300" width="900" >
 

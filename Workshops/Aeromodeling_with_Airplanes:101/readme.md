@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png"> 
+
 # Aeromodelling with Airplanes:101
 If you've always dreamed of building your own airplane, but aren't sure how to make one or don't have the required skills. Team SDIoT is providing you with the opportunity to learn all about building your own Airplane and Physics behind flying it during this workshops, where you can build and fly your own DiY custom built airplane. We emphasises on gaining hands-on building experience, the informal sessions conducted during workshops to make it as a team building activity adds more fun and a great learning experience.
 

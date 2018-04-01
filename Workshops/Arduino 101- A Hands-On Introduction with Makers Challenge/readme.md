@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Arduino 101: A Hands-On Introduction with Makers Challenge
 Have you ever looked at some gadget around you and wondered how it really worked? Maybe it is the remote control boat, system that controls the elevator, a vending machine, etc. This workshop with Arduino Board can help you find some of the answer to the mysteries of electronics in a hands-on way.
 ## Workshop Details

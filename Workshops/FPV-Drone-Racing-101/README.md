@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # <img src="Drone.png" height="50" width="70">FPV Drone Racing: 101
 Flying an FPV (first person view) drone is an out of the world experience.
 It is not much before, when only in movies and video games one can think about drone racing, now a bird’s-eye view or race through obstacles at breakneck speeds is a reality. Through this workshop we are bringing this to your fingertips, now you too can wear your flying goggles and enjoy the breathtaking maneuver of drone right in front of your eyes.
@@ -62,7 +64,7 @@ P4U lab is an initiative of SDIoT to inspire Tech-enthusiasts and Entrepreneurs 
 | 1 | 10 Feb 2K17 | JRE Group of Institutions | Greater Noida | [Workshop@JRE](/Workshops/FPV-Drone-Racing-101/JRE/) |
 | 2 | 18 Feb 2K17 | Jamia Milia Islamia | Delhi | [Workshop@Jamia](/Workshops/FPV-Drone-Racing-101/JMI/) |
 | 3 | 17-18 Feb 2K18 | BML Munjal University | Gurgaon, Haryana | [Workshop@BML](/Workshops/FPV-Drone-Racing-101/BML/) |
-| 4 | 22-23 Feb 2K18 | BITS Pilani  | Rajisthan | [Workshop@Bits](/Workshops/FPV-Drone-Racing-101/Bits/) |
+| 4 | 22-23 Feb 2K18 | BITS Pilani  | Rajisthan | [Workshop@Bits](/Workshops/FPV-Drone-Racing-101/BITS/) |
 ## SkySelfie
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-MSRvAeJE
 " target="_blank"><img src="http://img.youtube.com/vi/xx-MSRvAeJE/0.jpg" 

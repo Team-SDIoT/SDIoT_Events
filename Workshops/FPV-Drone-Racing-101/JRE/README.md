@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # [JRE Group Of Institution](http://www.jre.edu.in/)
 <img src="JRE-Group-of-Institutions-greater-noida.jpg" height="250" width="900" >
 

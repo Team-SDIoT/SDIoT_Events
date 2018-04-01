@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Meetup-Galgotias College of Engineering & Technology 
 ## Venue
 <img src="Image/maxresdefault.jpg" height="250" width="500" >

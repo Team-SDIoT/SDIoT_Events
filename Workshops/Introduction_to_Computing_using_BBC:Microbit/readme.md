@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Introduction to Computing using BBC:Microbit
 The workshop will introduce participants to basis of computing using BBC Micro:bit, a well renowned developed platform designed by BBC, UK for students to make them teach programming. This workshop is great for teaching programming fundamentals, and using drag-and-drop programming paradigm using Microsoft MakeCode open source platform.
 

@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # <img src="Iot.png" height="70" width="120">Getting Started with Internet of Things (IoT)
 The internet of things offers an unparalleled opportunity to ignite profound business transformation across every
 industry. We are moving towards a new computing paradigm, which will involve trillions of connected

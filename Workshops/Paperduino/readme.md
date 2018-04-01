@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # Paperduino
 Paperduino is an open-source computer hardware and software company, project and user community that designs and manufactures microcontroller-based kits for building digital devices and interactive objects that can sense and control the physical world. Paperduino is an important part of Makers movement around the world and is extensively used by designers and hobbyist to bring their ideas to life with ease. Many products have also witnessed using Paperduino at heart, because of its very small learning threshold it’s a great platform for anyone beginning with microcontrollers or automating things. Paperduino will become your favorite microcontroller in no time. It has been adopted in various institutions from primary schools to universities.
 ## Workshop Details

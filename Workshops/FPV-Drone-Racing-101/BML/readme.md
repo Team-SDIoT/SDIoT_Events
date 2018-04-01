@@ -1,3 +1,5 @@
+<img align="right" width="120" height="60" src="https://github.com/Team-SDIoT/SDIoT_Events/blob/master/SDIoT%20New%20Logo.png">
+
 # [BML Munjal University](https://www.bml.edu.in/)
 <img src="150304073617_banner.jpg" height="300" width="900" >
 
