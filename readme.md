@@ -1,3 +1,4 @@
+<img src="SDIoT New Logo.png" height="50" width ="50">
 # SDIoT 
 Smart Thinking For Smart Generation
 
